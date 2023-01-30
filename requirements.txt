@@ -1,0 +1,4 @@
+flask
+gunicorn
+email_validator
+opencv-python
