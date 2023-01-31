@@ -3,4 +3,4 @@ gunicorn
 email_validator
 opencv-python
 ffmpeg 
-
+libgl1-mesa-glx
