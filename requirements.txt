@@ -1,6 +1,5 @@
 flask
 gunicorn
 email_validator
-opencv-python
+python3-opencv
 ffmpeg 
-libgl1-mesa-glx
