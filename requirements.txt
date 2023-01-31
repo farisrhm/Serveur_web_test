@@ -2,5 +2,5 @@ flask
 gunicorn
 email_validator
 ffmpeg 
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.7.0.68
 
