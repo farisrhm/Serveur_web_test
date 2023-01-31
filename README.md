@@ -1,5 +1,5 @@
 # Déploiment de l'application sur serveur test
-![](https://media1.giphy.com/media/gw3IWyGkC0rsazTi/200.gif?cid=6c09b952a15e0bfa4fec8d2c00cbbb93b8cf19d8b00023b7&rid=200.gif&ct=g)
+![](https://media1.giphy.com/media/gw3IWyGkC0rsazTi/200.gif?cid=6c09b952a15e0bfa4fec8d2c00cbbb93b8cf19d8b00023b7&rid=200.gif)
 
 ## Introduction
 Ce dépôt Git est destiné à la synchronisation du code de l'application web développée par votre équipe. Il permet également de déployer cette application sur Internet via Heroku.
