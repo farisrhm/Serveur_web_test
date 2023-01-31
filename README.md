@@ -8,15 +8,15 @@ Ce dépôt Git est destiné à la synchronisation du code de l'application web d
 Avant de commencer, assurez-vous d'avoir installé Git sur votre ordinateur.
 
 ## Mise en place du dépôt Git
-Cloner ce dépôt sur votre ordinateur avec la commande git clone suivie de l'URL du dépôt.
-Se rendre dans le répertoire du dépôt avec la commande cd nom-du-dépôt.
+Cloner ce dépôt sur votre ordinateur avec la commande git clone suivie de l'URL du dépôt.  
+Se rendre dans le répertoire du dépôt avec la commande cd nom-du-dépôt.  
 Synchronisation du code
 Pour synchroniser les modifications du code, vous devez effectuer les étapes suivantes :
 
 ## Ajouter les nouveaux fichiers avec la commande git add ..
-Enregistrer les modifications avec un message descriptif via la commande git commit -m "message descriptif".
-Pusher les modifications sur le dépôt distant avec la commande git push.
-Mise à jour des dépendances
+Enregistrer les modifications avec un message descriptif via la commande git commit -m "message descriptif".  
+Pusher les modifications sur le dépôt distant avec la commande git push.  
+Mise à jour des dépendances  
 Si vous installez de nouvelles librairies, n'oubliez pas de mettre à jour le fichier requirement.txt.
 
 ## Conclusion
