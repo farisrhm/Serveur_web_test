@@ -1,2 +1,2 @@
-//web: gunicorn run:app
-web: python run.py $PORT
+web: gunicorn run:app
+//web: python run.py $PORT
